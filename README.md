@@ -25,7 +25,6 @@ If your README is long, add a table of contents to make it easy for users to fin
 ## Credits
 
 - [W3Schools](https://www.w3schools.com)
-- dcodner24 
 
 
 ## License
