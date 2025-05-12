@@ -11,7 +11,7 @@ body {
   background-color: #d9dcd6;
 }
 
-/*All Headers*/
+/*Page-Header*/
 
 .header {
   padding: 20px;
@@ -21,6 +21,7 @@ body {
   color: #ffffff;
 }
 
+/*Logo*/
 .header h1 {
   display: inline-block;
   font-size: 48px;
@@ -30,6 +31,7 @@ body {
   color: #d9dcd6;
 }
 
+/*Nav=Bar*/
 .header nav {
   padding-top: 15px;
   margin-right: 20px;
@@ -47,13 +49,12 @@ body {
   margin-left: 25px;
 }
 
-/*Navigation Section*/
 a {
   color: #ffffff;
   text-decoration: none;
 }
 
-/*Hero Formatting*/
+/*Hero*/
 .hero {
   height: 800px;
   width: 100%;
@@ -63,7 +64,7 @@ a {
   background-position: center;
 }
 
-/*Benefits Formatting*/
+/*Aside-Contents*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -139,10 +140,11 @@ a {
   margin-left: 20px;
 }
 
-/*Sections Formatting*/
+/*Main-Page-Content*/
 p {
   font-size: 16px;
 }
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -185,7 +187,6 @@ p {
   font-size: 36px;
 }
 
-/*Asides Formatting*/
 .search-engine-optimization img {
   max-height: 200px;
 }
@@ -198,7 +199,7 @@ p {
   max-height: 200px;
 }
 
-/*Footer Formatting*/
+/*Footer*/
 .footer {
   padding: 30px;
   clear: both;
