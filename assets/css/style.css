@@ -1,3 +1,4 @@
+/*Entire Webpage*/
 * {
   box-sizing: border-box;
   padding: 0;
@@ -52,12 +53,7 @@ a {
   text-decoration: none;
 }
 
-/*Paragraph Formatting*/
-p {
-  font-size: 16px;
-}
-
-/*Hero Section*/
+/*Hero Formatting*/
 .hero {
   height: 800px;
   width: 100%;
@@ -67,24 +63,7 @@ p {
   background-position: center;
 }
 
-/*Float*/
-.float-left {
-  float: left;
-  margin-right: 25px;
-}
-
-.float-right {
-  float: right;
-  margin-left: 25px;
-}
-
-.content {
-  width: 75%;
-  display: inline-block;
-  margin-left: 20px;
-}
-
-/*Benefits Section*/
+/*Benefits Formatting*/
 .benefits {
   margin-right: 20px;
   padding: 20px;
@@ -144,7 +123,27 @@ p {
   max-width: 150px;
 }
 
-/*Sections General Formatting*/
+.float-left {
+  float: left;
+  margin-right: 25px;
+}
+
+.float-right {
+  float: right;
+  margin-left: 25px;
+}
+
+.content {
+  width: 75%;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+/*Sections Formatting*/
+p {
+  font-size: 16px;
+}
+
 .search-engine-optimization {
   margin-bottom: 20px;
   padding: 50px;
@@ -172,19 +171,6 @@ p {
   color: #ffffff;
 }
 
-/*Asides Formatting*/
-.search-engine-optimization img {
-  max-height: 200px;
-}
-
-.online-reputation-management img {
-  max-height: 200px;
-}
-
-.social-media-marketing img {
-  max-height: 200px;
-}
-/*Section Fonts*/
 .search-engine-optimization h2 {
   margin-bottom: 20px;
   font-size: 36px;
@@ -200,6 +186,19 @@ p {
   font-size: 36px;
 }
 
+/*Asides Formatting*/
+.search-engine-optimization img {
+  max-height: 200px;
+}
+
+.online-reputation-management img {
+  max-height: 200px;
+}
+
+.social-media-marketing img {
+  max-height: 200px;
+}
+
 /*Footer Formatting*/
 .footer {
   padding: 30px;
@@ -212,4 +211,3 @@ p {
 .footer h2 {
   font-size: 20px;
 }
-
